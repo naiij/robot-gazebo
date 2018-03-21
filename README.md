@@ -1,5 +1,11 @@
 # robot-gazebo
 ---
+A package to launch gazebo with turtlebot and hokuyo 2d laser.
+You can change the world file by type:
+```
+export TURTLEBOT_GAZEBO_WORLD_FILE="your world file"
+```
+the laser & camera merged version will be published later.
 
 ## Usage
 ```
